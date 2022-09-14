@@ -1,24 +1,39 @@
-# README
+# Microverse Project
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Hello Rails Back End app
 
-Things you may want to cover:
+> Hello Rails Back End app is simple application that contains setup of rails APIs. The API loads a random greeting from database on every requset.
 
-* Ruby version
+## Setup
+>- Git clone `https://github.com/rolandfbk/hello-rails-back-end.git`
+>- cd hello-rails-back-end
 
-* System dependencies
+## Usage
+>- bundle install
+>- rails db:create db:migrate
+>- rails server
 
-* Configuration
+## Link to the front end
 
-* Database creation
+[Frontend](https://github.com/rolandfbk/hello-react-front-end)
 
-* Database initialization
+## Author
 
-* How to run the test suite
+👤 **Roland Ossisa Yuma**
 
-* Services (job queues, cache servers, search engines, etc.)
+>- GitHub: [@rolandfbk](https://github.com/rolandfbk)
+>- LinkedIn: [Roland Ossisa Yuma](https://linkedin.com/in/roland-ossisa-yuma)
+>- Twitter: [@rolandfbk](https://twitter.com/rolandfbk)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+>Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+>Give a ⭐️ if you like this project!
+
+## Acknowledgement
+
+>Greatful to @microverseinc for putting this project together
